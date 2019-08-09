@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1565289515 source:/home/erivalo/Documents/C++/logo-app/main.cpp
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<cstdarg>
+	<math.h>
+	<time.h>
+
