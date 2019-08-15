@@ -1,5 +1,5 @@
 # C++ Code Logo
-
+![Logo Running](https://raw.githubusercontent.com/erivalo/logo-app/master/data/screenshots/logo.gif)
 ## Contents
 
 - [About](#about)
